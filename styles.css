@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table {
+	width: 100%;
+}
+
+.left {
+	text-align: left;
+	color: #fff;
+	background-color: #C0504D;
+}
+
+.right {
+	text-align: right;
+}
+
+#waist {
+	background-color: #DA9694;
+	color: #fff;
+}
+
+#chest {
+	background-color: #F2DCDB;
+}
+
+#sleeve {
+	background-color: #D9D9D9;
+}
